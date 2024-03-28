@@ -1,0 +1,14 @@
+# Ignore build artifacts
+task/
+build/
+
+# Ignore IDE-specific files
+.idea/
+.vscode/
+
+# Ignore compiled binaries and generated files
+*.class
+*.jar
+*.war
+*.zip
+
